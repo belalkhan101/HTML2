@@ -1,0 +1,32 @@
+Download vs code;
+download and install git,git -v;
+create an account in github;
+...............................................
+open fiolder-->go path--->cmd----> code .;
+
+Extentions---->Material icon theme by pkief
+
+HTMl === Hyper text markep language started in 1992 by cern
+GML(generalized ML) ==> SGML(standard GML)==> HTML
+current version of HTML is HTML5 
+HTML3==>para,heading,anchor,img
+HTML4-->tables,lists,forms,media
+HTML5-->advanced--->semantic,adragn drop,canvas,geolocation,
+
+HTML is the used for the content or structyre of the web page , it includes 
+links,tabels,form,images,media etc...
+
+every thing in HTML is done by tag ,
+<tagname>---->open tag
+</tagname>--->close tag
+whole html is in html element, inside html element,
+you will have head and body elements,
+
+Tag vs element
+<h1>---> h1 open tag
+  content
+</h2>---> h2 close tag
+
+element contains opentag+content+closetag,
+  
+In VS CODE there are some shortcuts known as emmets
