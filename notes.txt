@@ -30,3 +30,4 @@ Tag vs element
 element contains opentag+content+closetag,
   
 In VS CODE there are some shortcuts known as emmets
+
